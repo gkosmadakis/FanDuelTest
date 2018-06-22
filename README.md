@@ -14,30 +14,55 @@ Some sample outcomes are shown below, where there are four participants, with sh
 on the tied scores:
 
 Participant Score Prize
+
 Sally 77 $50
+
 Betty 66 $20
+
 Don 46 $10
+
 Megan 45 $0
+
 Participant Score Prize
+
 Peggy 77 $50
+
 Tom 66 $15
+
 Joan 66 $15
+
 Ken 45 $0
+
 Participant Score Prize
+
 Roger 77 $50
+
 Jane 66 $20
+
 Pete 45 $5
+
 Cooper 45 $5
+
 Participant Score Prize
+
 Harry 77 $50
+
 Lane 45 $10
+
 Stan 45 $10
+
 Henry 45 $10
+
 Participant Score Prize
+
 Ted 77 $35
+
 Trudy 77 $35
+
 Bobby 46 $5
+
 Paul 46 $5
+
 
 Boilerplate:
 
